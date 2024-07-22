@@ -1,3 +1,5 @@
 text = "hello"
-print (text)
-print ("hello chapter 1")
+if text == "hello":
+    print (text)
+else:
+    print ("hello chapter 1")
